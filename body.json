@@ -1,0 +1,11 @@
+{
+      "id": "2",
+      "name": "Zannatun Nayeem",
+      "location": "Bangladesh",
+      "phone": "01685726097",
+      "Bank Account": "test account number",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    }
